@@ -1,0 +1,6 @@
+std_msgs/Header header
+geometry_msgs/Quaternion target_location
+bool has_targets
+float32 target_area
+geometry_msgs/Transform camera_pose
+byte pipeline
